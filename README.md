@@ -77,6 +77,7 @@ Download:
 ## Downloading the Original Aria Data
 
 Placement-Aria provides annotations only. The underlying Project Aria data should be downloaded directly from Project Aria.
+It includes the images and point cloud of each scene.
 
 ### Synthetic Scenes (ASE)
 
